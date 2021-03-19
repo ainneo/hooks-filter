@@ -6,9 +6,9 @@ This is a simple react.js project, using hooks to filter through data
 * CSS3
 * React.JS
 
-####This project was bootstrapped with Create React App.
+#### This project was bootstrapped with Create React App.
 
-###Available Scripts
+### Available Scripts
 In the project directory, you can run:
 
 npm start
