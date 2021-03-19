@@ -1,3 +1,12 @@
+## Description
+This is a react.js project, using hooks to filter through data
+
+## Technologies Used
+* JavaScript
+* CSS3
+* HTML5
+* React.JS
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
