@@ -1,5 +1,5 @@
 ## Description
-This is a react.js project, using hooks to filter through data.
+This is a react.js widget using hooks to filter through data.
 
 ## Technologies Used
 * JavaScript
