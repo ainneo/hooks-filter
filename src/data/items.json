@@ -1,0 +1,122 @@
+[
+    {
+        "title" : "Addit",
+        "cover" : "images/shoe.png",
+        "description" : "Lorem ipsum dolor sit amet",
+        "price" : 100.00,
+        "category" : "shoe"
+    },
+    {
+        "title" : "Nope",
+        "cover" : "images/shoe2.png",
+        "description" : "Lorem ipsum dolor sit amet",
+        "price" : 150.00,
+        "category" : "shoe"
+    },
+    {
+        "title" : "Ninja ",
+        "cover" : "images/hat1.png",
+        "description" : "Lorem ipsum dolor sit amet",
+        "price" : 100.00,
+        "category" : "hat"
+    },
+    {
+        "title" : "cap",
+        "cover" : "images/hat2.png",
+        "description" : "Lorem ipsum dolor sit amet",
+        "price" : 80.00,
+        "category" : "hat"
+    },
+    {
+        "title" : "Bucket",
+        "cover" : "images/hat3.png",
+        "description" : "Lorem ipsum dolor sit amet",
+        "price" : 89.00,
+        "category" : "hat"
+    },
+    {
+        "title" : "Jacket",
+        "cover" : "images/jacket1.png",
+        "description" : "Lorem ipsum dolor sit amet",
+        "price" : 300.00,
+        "category" : "jacket"
+    },
+    {
+        "title" : "Uni",
+        "cover" : "images/jacket3.png",
+        "description" : "Lorem ipsum dolor sit amet",
+        "price" : 600.00,
+        "category" : "jacket"
+    },
+    {
+        "title" : "Joggers",
+        "cover" : "images/pant1.png",
+        "description" : "Lorem ipsum dolor sit amet",
+        "price" : 100.00,
+        "category" : "pant"
+    },
+    {
+        "title" : "Seats",
+        "cover" : "images/pant2.png",
+        "description" : "Lorem ipsum dolor sit amet",
+        "price" : 120.00,
+        "category" : "pant"
+    },
+    {
+        "title" : "Chalk",
+        "cover" : "images/shoe5.png",
+        "description" : "Lorem ipsum dolor sit amet",
+        "price" : 300.00,
+        "category" : "shoe"
+    },
+    {
+        "title" : "Nope II",
+        "cover" : "images/shoe6.png",
+        "description" : "Lorem ipsum dolor sit amet",
+        "price" : 150.00,
+        "category" : "shoe"
+    },
+    {
+        "title" : "Powder",
+        "cover" : "images/shoe7.png",
+        "description" : "Lorem ipsum dolor sit amet",
+        "price" : 80.00,
+        "category" : "shoes"
+    },
+    {
+        "title" : "Bomber",
+        "cover" : "images/jacket5.png",
+        "description" : "Lorem ipsum dolor sit amet",
+        "price" : 200.00,
+        "category" : "jacket"
+    },
+    {
+        "title" : "Rancid",
+        "cover" : "images/jacket6.png",
+        "description" : "Lorem ipsum dolor sit amet",
+        "price" : 300.00,
+        "category" : "jacket"
+    },
+    {
+        "title" : "Hiding",
+        "cover" : "images/hat5.png",
+        "description" : "Lorem ipsum dolor sit amet",
+        "price" : 80.00,
+        "category" : "hat"
+    },
+    {
+        "title" : "Jr",
+        "cover" : "images/pant5.png",
+        "description" : "Lorem ipsum dolor sit amet",
+        "price" : 300.00,
+        "category" : "pant"
+    },
+    {
+        "title" : "HiHi",
+        "cover" : "images/pant6.png",
+        "description" : "Lorem ipsum dolor sit amet",
+        "price" : 80.00,
+        "category" : "pant"
+    }
+
+]
