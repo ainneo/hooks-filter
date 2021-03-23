@@ -1,5 +1,5 @@
 ## Description
-This is a react.js widget using hooks to filter through data.
+This is a react.js widget using hooks to filter through products. 
 
 ## Technologies Used
 * JavaScript
