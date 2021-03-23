@@ -61,7 +61,7 @@ const Items = () => {
   return (
     <React.Fragment>
       <form className="filter">
-        <label for="category">Category:</label>
+        <label>Category:</label>
         <select
           name="category"
           id="category"
@@ -95,11 +95,11 @@ const Items = () => {
 
       {/* card UI component  */}
       <div className="master--card">
-        {products.map((item, key) => {
+        {products.map((item, index) => {
           return (
-            <div className="card">
+            <div key={index} className="card">
               <h2 className="title">{item.title}</h2>
-              <img src={item.cover} />
+              <img src={item.cover} alt={""} />
               <p className="description">{item.description}</p>
               <p className="price">${item.price}</p>
             </div>
