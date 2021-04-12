@@ -119,7 +119,3 @@ export default Items;
 // UI component:
 // useEffect function - UI initial start - renders/filters updates when state/criteria is changed
 // return/render UI - map data into UI
-
-// Todos: For now okay leave as is until expanding the project
-// Breakout card UI component into its own file
-// Breakout form filter UI into it's own file
