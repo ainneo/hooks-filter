@@ -1,5 +1,5 @@
 ## Description
-This is a react.js widget using hooks to filter through products. This project only filters through products - the images do not lead to another page. Also, checkout the other branches for forms, lists, and other ways to use hooks.
+I created this project to practice filtering through projects using hooks. This project only filters through products - the images do not lead to another page. Also, checkout the other branches for forms, lists, and other ways to use hooks.
 
 ## Technologies Used
 * JavaScript
