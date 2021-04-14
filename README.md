@@ -1,2 +1,1 @@
-This project is a shop list with multiple local state and custom hooks.
-You can double click an input box to enter or update a list item.
+I create a custome fetch hook in this project as practice in creating a custom hook.
