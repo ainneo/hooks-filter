@@ -1,1 +1,1 @@
-In this project I created a custom fetch hook fetching data from the Github Api.
+In this project I created a custom fetch hook fetching data from Github Api.
